@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Noran/static/css/main.63c85098.css",
+    "main.js": "/Noran/static/js/main.c7584cc7.js",
+    "index.html": "/Noran/index.html",
+    "main.63c85098.css.map": "/Noran/static/css/main.63c85098.css.map",
+    "main.c7584cc7.js.map": "/Noran/static/js/main.c7584cc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c85098.css",
+    "static/js/main.c7584cc7.js"
+  ]
+}
